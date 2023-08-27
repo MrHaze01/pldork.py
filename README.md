@@ -4,7 +4,7 @@
 
 # Installation
 
-git clone https://github.com/MrHaze01/Dorker.py
+git clone https://github.com/MrHaze01/pldork.py
 
 pip3 install google
 
